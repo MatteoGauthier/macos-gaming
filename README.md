@@ -99,3 +99,5 @@ However the Command Line Tools for XCode 15 Beta is required to use Game Porting
 - <https://github.com/IsaacMarovitz/Whisky>
 - [r/macgaming Reddit community](https://www.reddit.com/r/macgaming/)
 - Apple Homebrew [formulae](https://github.com/apple/homebrew-apple)
+- [Apple Gaming Wiki](https://www.applegamingwiki.com/wiki/Home), the wiki about gaming on M1 Apple silicon Mac
+- Cool website with news, game perf reports, reviews [Apple Silicon Games](https://applesilicongames.com/)

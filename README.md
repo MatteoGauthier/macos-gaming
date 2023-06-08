@@ -15,7 +15,11 @@ Play Windows games on macOS using [Game Porting Toolkit](https://developer.apple
 
 - [Recommended tutorial](https://t.co/uLSduBVpM8)
 
-## Compatibility
+## Compatibility Tables
+
+| Workink | Not Working |
+| ------- | ----------- |
+| ✅      | ❌          |
 
 <details open>
   <summary>M1</summary>
@@ -30,18 +34,25 @@ Play Windows games on macOS using [Game Porting Toolkit](https://developer.apple
 <details open>
   <summary>M1 Pro</summary>
   
-  | Game | Status | Config | Notes |
-  | --- | --- | --- | -------- |
-  | Skater XL | ✅ | base | [reddit post](https://www.reddit.com/r/macgaming/comments/143jo8c/skater_xl_running_on_m1_pro_base_model_wgame/) |
+| Game           | Status | Config | Notes                                                                                                                                              |
+| -------------- | ------ | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Skater XL      | ✅     | base   | [reddit post](https://www.reddit.com/r/macgaming/comments/143jo8c/skater_xl_running_on_m1_pro_base_model_wgame/)                                   |
+| Outer Wilds    | ✅     | base   | [reddit post](https://www.reddit.com/r/macgaming/comments/1439cpz/some_games_i_tested_through_porting_toolkit/?sort=new) low settings ~50 FPS      |
+| Outer Wilds    | ✅     | base   | [reddit post](https://www.reddit.com/r/macgaming/comments/1439cpz/some_games_i_tested_through_porting_toolkit/?sort=new) medium settings 35 FPS    |
+| Elden Ring     | ✅     | base   | [reddit post](https://www.reddit.com/r/macgaming/comments/1439cpz/some_games_i_tested_through_porting_toolkit/?sort=new) medium settings 35 FPS    |
+| Journey        | ✅     | base   | [reddit post](https://www.reddit.com/r/macgaming/comments/1439cpz/some_games_i_tested_through_porting_toolkit/?sort=new) ~100 FPS                  |
+| Sekiro         | ✅     | base   | [reddit post](https://www.reddit.com/r/macgaming/comments/1439cpz/some_games_i_tested_through_porting_toolkit/?sort=new) ~40 FPS                   |
+| The Witcher 3  | ✅     | base   | [reddit post](https://www.reddit.com/r/macgaming/comments/1439cpz/some_games_i_tested_through_porting_toolkit/?sort=new) ~40 FPS                   |
+| Cyberpunk 2077 | ✅     | base   | [reddit post](https://www.reddit.com/r/macgaming/comments/1439cpz/some_games_i_tested_through_porting_toolkit/?sort=new) low settings 1080p 30 FPS |
 
 </details>
 
 <details open>
   <summary>M1 Max</summary>
   
-  | Game | Status | Config | Notes |
-  | --- | --- | --- | --- |
-  | Diablo IV | ✅ | Ventura 13.3.1| [reddit post](https://www.reddit.com/r/macgaming/comments/143aii6/diablo_4_on_m1_max_macos_ventura_1331/) |
+| Game      | Status | Config         | Notes                                                                                                     |
+| --------- | ------ | -------------- | --------------------------------------------------------------------------------------------------------- |
+| Diablo IV | ✅     | Ventura 13.3.1 | [reddit post](https://www.reddit.com/r/macgaming/comments/143aii6/diablo_4_on_m1_max_macos_ventura_1331/) |
 
 </details>
 

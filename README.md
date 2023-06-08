@@ -13,6 +13,7 @@ Play Windows games on macOS using [Game Porting Toolkit](https://developer.apple
 
 ### Tutorial
 
+- [Gaming Porting Toolkit tutorial](https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit)
 - [Recommended tutorial](https://t.co/uLSduBVpM8)
 - [Instruction for Battle.net](https://www.reddit.com/r/macgaming/comments/14307be/comment/jn7dxzo/?utm_source=share&utm_medium=web2x&context=3)
 

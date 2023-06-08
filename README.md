@@ -40,7 +40,7 @@ Play Windows games on macOS using [Game Porting Toolkit](https://developer.apple
   
   | Game | Status | Config | Notes |
   | --- | --- | --- | --- |
-  | | | | d |
+  | Diablo IV | ✅ | Ventura 13.3.1| [reddit post](https://www.reddit.com/r/macgaming/comments/143aii6/diablo_4_on_m1_max_macos_ventura_1331/) |
 
 </details>
 
@@ -56,10 +56,11 @@ Play Windows games on macOS using [Game Porting Toolkit](https://developer.apple
 <details open>
   <summary>M2 Max</summary>
 
-| Game           | Status | Config      | Notes                                                                                                               |
-| -------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------- |
-| Cyberpunk 2077 | ✅     | GPU 38 core | [reddit post](https://www.reddit.com/r/macgaming/comments/1435ukq/cyberpunk_on_m2_max_wgame_porting_toolkit/)       |
-| Diablo IV      | ✅     | 32gb        | [reddit post](https://www.reddit.com/r/macgaming/comments/14307be/diablo_iv_on_m2_max_using_macos_sonoma_and_game/) |
+| Game            | Status | Config      | Notes                                                                                                                                                                                               |
+| --------------- | ------ | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cyberpunk 2077  | ✅     | GPU 38 core | [reddit post](https://www.reddit.com/r/macgaming/comments/1435ukq/cyberpunk_on_m2_max_wgame_porting_toolkit/)                                                                                       |
+| Diablo IV       | ✅     | 32gb        | [reddit post](https://www.reddit.com/r/macgaming/comments/14307be/diablo_iv_on_m2_max_using_macos_sonoma_and_game/) [tutorial](https://www.reddit.com/r/macgaming/comments/14307be/comment/jn7dxzo) |
+| Hogwarts Legacy | ✅     | 32gb        | [reddit post](https://www.reddit.com/r/macgaming/comments/14342uz/hogwarts_legacy_on_m2_max/)                                                                                                       |
 
 </details>
 

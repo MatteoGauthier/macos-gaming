@@ -1,5 +1,19 @@
 # macos-gaming
 
+Play Windows games on macOS using [Game Porting Toolkit](https://developer.apple.com/videos/play/wwdc2023/10123/)
+
+## Getting started
+
+### Prerequisites
+
+- [Homebrew](https://brew.sh/)
+- macOS 13.4+
+- [Command Line Tools for XCode 15 Beta](https://developer.apple.com/download/all/?q=Command%20line%20tools%20for%20XCode%2015%20beta)
+
+### Tutorial
+
+[Recommended tutorial](https://t.co/uLSduBVpM8)
+
 ## Compatibility
 
 <details open>

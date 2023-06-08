@@ -92,7 +92,7 @@ However the Command Line Tools for XCode 15 Beta is required to use Game Porting
 
 <details>
   <summary>Do I need a Apple Developer Account to use Game Porting Toolkit</summary>
-  No, but you might need an Apple Developer Account (free) if you chosse to download Game Porting Toolkit from the <https://developer.apple.com> website.
+  No, but you might need an Apple Developer Account (free) if you choose to download Game Porting Toolkit from the <https://developer.apple.com> website.
 </details>
 
 ## Related links

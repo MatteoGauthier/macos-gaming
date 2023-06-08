@@ -62,3 +62,9 @@ Play Windows games on macOS using [Game Porting Toolkit](https://developer.apple
 | Diablo IV      | ✅     | 32gb        | [reddit post](https://www.reddit.com/r/macgaming/comments/14307be/diablo_iv_on_m2_max_using_macos_sonoma_and_game/) |
 
 </details>
+
+## Related links
+
+- <https://github.com/IsaacMarovitz/Whisky>
+- [r/macgaming Reddit community](https://www.reddit.com/r/macgaming/)
+- Apple Homebrew [formulae](https://github.com/apple/homebrew-apple)

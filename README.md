@@ -79,9 +79,14 @@ Play Windows games on macOS using [Game Porting Toolkit](https://developer.apple
 ## Troubleshooting and FAQ
 
 <details open>
-  <summary>How to hide the game-porting-toolkit HUD</summary>
+  <summary>How to hide the game-porting-toolkit HUD ? </summary>
   Just use the `gameportingtoolkit-no-hud` binary instead of `gameportingtoolkit` binary.
 
+</details>
+
+<details open>
+  <summary>Do I need a Apple Developer Account to use Game Porting Toolkit</summary>
+  No, but you might need an Apple Developer Account (free) if you chosse to download Game Porting Toolkit from the <https://developer.apple.com> website.
 </details>
 
 ## Related links

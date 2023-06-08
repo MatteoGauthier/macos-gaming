@@ -76,6 +76,14 @@ Play Windows games on macOS using [Game Porting Toolkit](https://developer.apple
 
 </details>
 
+## Troubleshooting and FAQ
+
+<details open>
+  <summary>How to hide the game-porting-toolkit HUD</summary>
+  Just use the `gameportingtoolkit-no-hud` binary instead of `gameportingtoolkit` binary.
+
+</details>
+
 ## Related links
 
 - <https://github.com/IsaacMarovitz/Whisky>

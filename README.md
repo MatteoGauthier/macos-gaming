@@ -57,9 +57,9 @@ Play Windows games on macOS using [Game Porting Toolkit](https://developer.apple
 <details open>
   <summary>M1 Ultra</summary>
 
-| Game | Config | Notes |
-| ---- | ------ | ----- |
-|      |        | d     |
+| Game  | Config | Notes                                                                                                                                                                         |
+| ----- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GTA V |        | [reddit post](https://www.reddit.com/r/macgaming/comments/145ktiw/gtav_m1_ultra_via_gpt/) All settings on Very High/Ultra, 8x anisotropic filtering. 4K at 30 FPS with VSync. |
 
 </details>
 
